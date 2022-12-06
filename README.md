@@ -4,6 +4,6 @@
 * Linux Shell Docker
 * 具体使用方法通过 ./edk.sh -h 查看
 * 包括批量停止、删除docker以及镜像，适用于批量管理无效docker&images
-### GopherHex
+### gopherEncode
 * 辅助编码Gopher
 * 提供手动模式和接口模式
