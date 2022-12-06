@@ -1,4 +1,4 @@
-# 帮助进行Gopher编码的Python脚本
+# 辅助Gopher编码的Python脚本
 * 手动模式
 ```shell
 python3 GopherHex.py
